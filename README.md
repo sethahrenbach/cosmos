@@ -4,7 +4,7 @@ COSMOS enables an enterprise to monitor known vulnerabilities in the open source
 ### Origin
 COSMOS was developed at the National Geospatial-Intelligence Agency (NGA) by federal government employees in the course of their official duties, so it is <strong>not</strong> subject to copyright protection and is in the public domain in the United States. 
 
-You are free to use the core public domain portions of FDE for any purpose. Modifications back to the cores of any dependency functions are subject to the original licenses and are separate from the core public domain work of COSMOS. 
+You are free to use the core public domain portions of COSMOS for any purpose. Modifications back to the cores of any dependency functions are subject to the original licenses and are separate from the core public domain work of COSMOS. 
 
 ### Transparency
 NGA is posting code created by government officers in their official duties in transparent platforms to increase the impact and reach of taxpayer-funded code. NGA is also posting COSMOS to increase the amount of free and open cyber-security tools available to bolster cyber-security health more broadly.
