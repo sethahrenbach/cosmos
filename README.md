@@ -2,7 +2,7 @@
 COSMOS enables an enterprise to monitor known vulnerabilities in the open source libraries that its applications use. It consists of a command line tool for CI/CD integration that registers an app’s open source libraries, a Python Flask-RestX API for storing project and vulnerability information, a harvester for downloading the most up-to-date vulnerability information from NIST’s National Vulnerability Database (NVD), and a React UI. Each service is containerized and deployable to a Cloud-hosting service.
 
 ### Origin
-COSMOS was developed at the National Geospatial-Intelligence Agency (NGA) by a federal government employee in the course of their official duties, so it is <strong>not</strong> subject to copyright protection and is in the public domain in the United States. 
+COSMOS was developed at the National Geospatial-Intelligence Agency (NGA) by federal government employees in the course of their official duties, so it is <strong>not</strong> subject to copyright protection and is in the public domain in the United States. 
 
 You are free to use the core public domain portions of FDE for any purpose. Modifications back to the cores of any dependency functions are subject to the original licenses and are separate from the core public domain work of FDE. 
 
